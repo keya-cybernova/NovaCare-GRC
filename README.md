@@ -41,9 +41,10 @@ I rated this risk High before and after existing controls. I recommended that th
 
 ## Files in this Repository
 
-`NovaCare_Asset_Inventory.xlsx`
-- `NovaCare_Cyber_Risk_Register.xlsx`
+## Files in this Repository
 
+- [NovaCare_Asset_Inventory.xlsx](NovaCare_Asset_Inventory.xlsx)
+- [NovaCare_Cyber_Risk_Register.xlsx](NovaCare_Cyber_Risk_Register.xlsx)
 
 ## Project Scope
 
